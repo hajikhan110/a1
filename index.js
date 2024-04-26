@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 "use strict";
 let personName = "";
 //personName=prompt("what is your name please?") || "";

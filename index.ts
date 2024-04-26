@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 let personName : string = "";
 //personName=prompt("what is your name please?") || "";
 //personName=prompt("what is your name please?");
